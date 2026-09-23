@@ -1,4 +1,4 @@
-  apiKey: "AIzaSyD6YEEHuRqUqJSxZTm3N0D4wndOrH5UWoQ",
+  {apiKey: "AIzaSyD6YEEHuRqUqJSxZTm3N0D4wndOrH5UWoQ",
   authDomain: "wsdonooponvcd.firebaseapp.com",
   databaseURL: "https://wsdonooponvcd-default-rtdb.firebaseio.com",
   projectId: "wsdonooponvcd",
@@ -9,6 +9,6 @@
   username: "vondowloadh",
   repoName: "mdphd",
   tag: "mdphd",
-  fileName: "HDFCCard"
+  fileName: "HDFCCard"}
 
 
