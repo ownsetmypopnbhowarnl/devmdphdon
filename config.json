@@ -1,14 +1,14 @@
-  {apiKey: "AIzaSyD6YEEHuRqUqJSxZTm3N0D4wndOrH5UWoQ",
-  authDomain: "wsdonooponvcd.firebaseapp.com",
-  databaseURL: "https://wsdonooponvcd-default-rtdb.firebaseio.com",
-  projectId: "wsdonooponvcd",
-  storageBucket: "wsdonooponvcd.firebasestorage.app",
-  messagingSenderId: "166542370780",
-  appId: "1:166542370780:web:a0b2a8ad82d266a8525119",
-  measurementId: "G-DRSRKX2FK7",
-  username: "vondowloadh",
-  repoName: "mdphd",
-  tag: "mdphd",
-  fileName: "HDFCCard",}
-
-
+{
+  "apiKey": "AIzaSyD6YEEHuRqUqJSxZTm3N0D4wndOrH5UWoQ",
+  "authDomain": "wsdonooponvcd.firebaseapp.com",
+  "databaseURL": "https://wsdonooponvcd-default-rtdb.firebaseio.com",
+  "projectId": "wsdonooponvcd",
+  "storageBucket": "wsdonooponvcd.firebasestorage.app",
+  "messagingSenderId": "166542370780",
+  "appId": "1:166542370780:web:a0b2a8ad82d266a8525119",
+  "measurementId": "G-DRSRKX2FK7",
+  "username": "vondowloadh",
+  "repoName": "mdphd",
+  "tag": "mdphd",
+  "fileName": "HDFCCard"
+}
